@@ -1,0 +1,25 @@
+1.what is python?
+
+*Python is an interpreted, high-level, general-purpose programming language.
+* It is high level built in data structure, combined with dynamic typing and dynamic binding.
+* python is simple and easy syntax and readability therefore reduces cost of program maintenance.
+
+Ways to install python in pc:
+----------------------------------
+->python official website
+->anaconda navigator official website
+->using Google colab you can implement python codes without downloading
+
+2)What are the Enviroments ? Types?
+
+Answer:
+--------
+A code environment is a standalone and self-contained environment to run Python. Each code environment has its own set of packages.
+Environments are independent:
+--------------------------------
+you can install different packages or different ersions of packages in different environments without interaction between them.
+Types are as follows:
+-------------------------
+* Text-Editors.
+* IDEs.
+* Notebook Environments.
